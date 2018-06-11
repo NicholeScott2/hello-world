@@ -1,3 +1,3 @@
 # hello-world
-Test
-//Figureing out Comments//
+Test - hello
+//Figuring out Comments//
